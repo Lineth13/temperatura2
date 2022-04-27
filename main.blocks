@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="%QBsBokZu5G-T.y2w[,I" x="0" y="0"/><block type="device_forever" id="86eS$Ycm7[nPy#K/DA]j" x="205" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="nX/pB*Tc*X|hiIlmo+q!"><field name="i">IconNames.Confused</field></block></statement></block></xml>
